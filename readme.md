@@ -1,7 +1,7 @@
 # 언리얼 엔진으로 게임 개발 & C++ 게임 활용
 ## 2021 06 15
 
-* 멀티스레드 프로그래밍 (readme.md 및 기초 practice)
+* [멀티스레드 프로그래밍](./multithread) (readme.md 및 기초 practice)
 * C++ 프로그래밍
 * 다양한 자료구조(C++ STL) 공부
 

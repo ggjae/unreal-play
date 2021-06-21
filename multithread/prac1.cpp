@@ -1,21 +1,23 @@
 #include <iostream>
+#include <mutex> 
 #include <thread>
-int sum;
-void do_work(){
-    for(auto i =0;i<50000000;i++) sum+=2;
-}
+#include <vector>
+#include <chrono>
+#include <string>
 
 using namespace std;
-int main(){
-    // thread t1{f}; // 분리된 thread가 f를 실행시킨다
-    // t1.join(); // t1을 끝낼때까지 기다리기.
-    // // f가 리턴하면 종료되겠지?
-    while (1){
-        sum =0;
-        thread t1{do_work};
-        thread t2{do_work};
-        printf("sum = %d",sum);
-    }
-    system("pause");
-    return 0;
+
+int main()
+{
+	const int num_pro = std::thread::hardware_concurrency();
+
+	cout << std::this_thread::get_id() << endl; // main thread ID
+
+	std::thread t1 = std::thread([]()
+	{
+		cout << std::this_thread::get_id() << endl; // thread t1 ID
+	});
+
+	
+	t1.join();  // join은 스레드 종료까지 대기하는 함수 대기하지않으면 main 함수에의해 종료된다.
 }

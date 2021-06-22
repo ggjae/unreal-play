@@ -3,6 +3,7 @@
 ## 2021 06 22
 
 * [멀티스레드 프로그래밍](./multithread) 기본에 대한 다양한 리드미파일 생성
+* Blueprint Open Level을 이용하여 방탈출게임 Level1 클리어 시 Level2로 자동으로 맵이 이어지게 설정 
 * GIGDC 및 게임 스터디 계획 세우기 (with [권재훈](https://github.com/wogns0197))
 
  

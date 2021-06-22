@@ -1,4 +1,11 @@
 # 언리얼 엔진으로 게임 개발 & C++ 게임 활용
+
+## 2021 06 22
+
+* [멀티스레드 프로그래밍](./multithread) 기본에 대한 다양한 리드미파일 생성
+* GIGDC 및 게임 스터디 계획 세우기 (with [권재훈](https://github.com/wogns0197))
+
+ 
 ## 2021 06 15
 
 * [멀티스레드 프로그래밍](./multithread) (readme.md 및 기초 practice)

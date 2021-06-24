@@ -1,4 +1,4 @@
-# Unreal Play! with C++ & BluePrint
+# Unreal Play!
 
 ## 2021 06 24
 * 4컬러 스위치 BP, UI BP, 레벨 블루프린트의 다양한 이벤트 생성

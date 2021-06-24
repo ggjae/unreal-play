@@ -1,5 +1,10 @@
 # 언리얼 엔진으로 게임 개발 & C++ 게임 활용
 
+## 2021 06 24
+* 4컬러 스위치 BP, UI BP, 레벨 블루프린트의 다양한 이벤트 생성
+* [ISSUE#5 Level 2 이벤트 정리](https://github.com/ggjae/unreal-play/issues/5) 생성
+* hideUI, resetUI의 함수 생성을 통하여 재사용성을 향상시킴
+
 ## 2021 06 22
 
 * [멀티스레드 프로그래밍](./multithread) 기본에 대한 다양한 리드미파일 생성

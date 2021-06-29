@@ -1,7 +1,7 @@
 # Unreal Play!
 
 ## 2021 06 29
-* Landscape, Timeline 생성
+* Landscape, Timeline, Material Instance 생성
 * 물체를 Timeline에 따라 움직이게 만들어 Level 3 퍼즐을 구현
 * 게임 플레이 중에 발생하는 이벤트를 추가 ( 물체의 지형지물, 속성, Material 등 )
 

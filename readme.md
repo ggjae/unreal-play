@@ -1,5 +1,10 @@
 # Unreal Play!
 
+## 2021 06 29
+* Landscape, Timeline 생성
+* 물체를 Timeline에 따라 움직이게 만들어 Level 3 퍼즐을 구현
+* 게임 플레이 중에 발생하는 이벤트를 추가 ( 물체의 지형지물, 속성, Material 등 )
+
 ## 2021 06 24
 * 4컬러 스위치 BP, UI BP, 레벨 블루프린트의 다양한 이벤트 생성
 * [ISSUE#5 Level 2 이벤트 정리](https://github.com/ggjae/unreal-play/issues/5) 생성

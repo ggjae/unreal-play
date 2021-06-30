@@ -1,8 +1,13 @@
 # Unreal Play!
 
+## 2021 06 30
+* Level 1,2,3 연결시키기 및 Level 3 완성
+* 변수를 통하여 정답 관리 및 색상 관리를 가능하게 만듬
+* [Level 1,2,3 진행 영상](https://youtu.be/iMLbVF9EbDY)
+
 ## 2021 06 29
 * Landscape, Timeline, Material Instance 생성
-* 물체를 Timeline에 따라 움직이게 만들어 Level 3 퍼즐을 구현
+* 물체를 Timeline에 따라 움직이게 만들어 Level 3 정답 길을 만들어줌
 * 게임 플레이 중에 발생하는 이벤트를 추가 ( 물체의 지형지물, 속성, Material 등 )
 
 ## 2021 06 24

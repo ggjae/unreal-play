@@ -1,5 +1,9 @@
 # Unreal Play!
 
+
+개인 공부 목적
+---
+
 ## 2021 07 13
 * 최근 공부를 [TIOGx](https://github.com/TIOGx/)에서 이어나가고 있습니다. Unreal Engine 4에 대해서는 추후에 더 업데이트 하겠습니다.
 
